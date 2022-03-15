@@ -1,0 +1,96 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  body {
+    font-family: 'Courier Prime', monospace;
+    font-size: 120%;
+    background: #F8F8FF;
+    color: white;
+    background: black;
+  }
+  
+  .header {
+    font-family: 'Courier Prime', monospace;
+    margin: 50px auto 0px;
+    color: white;
+    background: black;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .content{
+    width: 40%;
+    margin: 0px auto;
+    padding: 20px;
+    background: black;
+  }
+
+  form {
+    width: 40%;
+    margin: 0px auto;
+    padding: 20px;
+    background: black;
+  }
+
+  .input-group {
+    margin: 10px 0px 10px 0px;
+  }
+
+  .input-group label {
+    display: block;
+    text-align: left;
+    margin: 10px;
+  }
+
+  .input-group input {
+    height: 30px;
+    width: 93%;
+    padding: 5px 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid gray;
+  }
+
+  .btn {
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+    background: #5F9EA0;
+    border: none;
+    border-radius: 5px;
+    margin: 10px;
+  }
+  
+  .error {
+    width: 92%; 
+    margin: 0px auto; 
+    padding: 10px; 
+    border: 1px solid #a94442; 
+    color: #a94442; 
+    background: #f2dede; 
+    border-radius: 5px; 
+    text-align: left;
+  }
+  
+  .success {
+    color: #3c763d; 
+    background: #dff0d8; 
+    border: 1px solid #3c763d;
+    margin-bottom: 20px;
+  }
+
+  .reply label{
+    display: block;
+    text-align: left;
+    margin: 10px;
+  }
+
+  .reply input{
+    height: 30px;
+    width: 93%;
+    padding: 5px 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid gray;
+  }
